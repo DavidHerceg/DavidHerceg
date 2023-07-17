@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidHerceg
 - 👀 I’m interested in JavaScript, C# and C++
-- 🌱 I’m currently learning JavaScript within the Angular framework.
+- 🌱 I’m currently learning everything
 - 📫 How to reach me:
 - 👾Discord: itsdahe
 

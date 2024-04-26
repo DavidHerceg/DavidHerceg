@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DavidHerceg
 - 👀 I’m interested in JavaScript, C# and C++
 - 🌱 I’m currently learning everything
-- 📫 How to reach me:
-- 👾Discord: itsdahe
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
